@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "summary": "...",
+    "category": "Self-help",
+    "coverImage": "https://yourdomain.com/images/atomic-habits.jpg"
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "summary": "...",
+    "category": "Productivity",
+    "coverImage": "https://yourdomain.com/images/deep-work.jpg"
+  }
+]
